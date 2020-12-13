@@ -27,7 +27,7 @@ try:
     # index_settings = json.loads(index_settings_str)
 
     index_settings = {
-      "index_all": False,
+      "index_all":  True,
       "index_private":True,
       "index_group": True,
       "index_channel": True,
