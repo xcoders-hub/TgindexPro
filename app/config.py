@@ -32,7 +32,7 @@ try:
       "index_group": True,
       "index_channel": True,
       "exclude_chats": [],
-      "include_chats": "E8WCk1xzV",#my index chat
+      "include_chats": "{1023178134,476789253}",#my index chat
       "otg": {
           "enable": True,
           "include_private": True,
